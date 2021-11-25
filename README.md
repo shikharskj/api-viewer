@@ -1,3 +1,6 @@
+![localhost_3000_(Nest Hub Max)](https://user-images.githubusercontent.com/73573652/143427979-aa78064c-b7c3-4f39-8a6c-2a8b1d48f479.png)
+
+
 ## How did I decide which technologies to use as part of your solution?
 -> It's simple, I developed a roadmap of the application and then decided to use react.js as the front-end framework beacuse of it's great developer experience and flexibility. Also react has alot of support libraries or npm packages and is compatible with a wide variety of other tech. For styling, I have used bootstrap as it provides a very simple and easy to code css library and classes.
 
