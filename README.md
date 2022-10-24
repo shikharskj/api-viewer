@@ -1,15 +1,9 @@
+## API-Viewer | [https://skj-api-viewer.netlify.app/](url)
+
+
 ![localhost_3000_(Nest Hub Max)](https://user-images.githubusercontent.com/73573652/143427979-aa78064c-b7c3-4f39-8a6c-2a8b1d48f479.png)
 
 
-## How did I decide which technologies to use as part of your solution?
--> It's simple, I developed a roadmap of the application and then decided to use react.js as the front-end framework beacuse of it's great developer experience and flexibility. Also react has alot of support libraries or npm packages and is compatible with a wide variety of other tech. For styling, I have used bootstrap as it provides a very simple and easy to code css library and classes.
-
-## Are there any improvements you could make to your submission?
--> Of'course yes. The application can be modified into having the history of the requests within the history tab. Also, it would be great to pass files along with requests. The user experience with the editor used can also be improved. 
-
-## What would you do differently if you were allocated more time?
-I would try to make the application a lot more user-friendly w.r.t it's interaction with the user. Also, include the history tab to view previous requests and try to make collections for every group of requests. I would also enable user authentication to load specific past requests made by their account.
-The editor would also be made more user-friendly and easy to use w.r.t the user.
 
 
 
