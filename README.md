@@ -1,4 +1,4 @@
-<h1> <a href="https://skj-api-viewer.netlify.app/" style="color:blue"> LIVE DEMO </a> </h1>
+<h1> <a href="https://skj-api-viewer.netlify.app/" target="_blank" style="color:blue"> LIVE DEMO </a> </h1>
 ## API-Viewer
 
 
